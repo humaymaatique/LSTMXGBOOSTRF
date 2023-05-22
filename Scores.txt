@@ -1,0 +1,17 @@
+1. Only wind speed factor considered:
+VAR : 1210.08
+RF : 337.49
+AB : 456.44
+XGB : 334.03
+
+2. Only visibility considered:
+VAR : 1440.08
+RF : 329.20
+AB : 468.63
+XGB : 300.26
+
+3. Only accident considered:
+VAR : 1248.74
+RF : 339.53
+AB : 479.52
+XGB : 308.99
